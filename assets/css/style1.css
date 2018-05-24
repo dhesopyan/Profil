@@ -1,0 +1,74 @@
+/* HTML */
+
+/* Skill */
+.skill{
+	height: 100%;
+	background: #eee;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.skillbox{
+	float: left;
+	width: 30%;
+	padding: 10px 0px 10px 20px;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+.ct{
+	width: 100%;
+	background: #fff;
+	border-radius: 5px;
+	margin-top: 5px;
+	transition: margin-left, 0.3s;
+}
+.ct:hover{
+	margin-left:10px;
+	box-shadow: 4px 4px 5px gray;
+}
+.skl{
+	text-align: right;
+	padding-right:20px;
+	line-height: 40px;
+	color: white;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+	/* SKILL BAR */
+	.html{
+		width: 85%;
+		background: #f44336;
+	}
+	.css{
+		width: 75%;
+		background: #FF8501;
+	}
+	.js{
+		width: 50%;
+		background: #2196F3;
+	}
+	.php{
+		width: 70%;
+		background: #05C39D;
+	}
+	.mysql{
+		width: 70%;
+		background: #1DBF04;
+	}
+	.bs{
+		width: 65%;
+		background: #FF8501;
+	}
+	.jquery{
+		width: 30%;
+		background: #2196F3;
+	}
+	.laravel{
+		width: 50%;
+		background: #05C39D;
+	}
+	.ps{
+		width: 30%;
+		background: #f44336;
+	}
+
